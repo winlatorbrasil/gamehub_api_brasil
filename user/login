@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "msg": "success",
+  "time": "1759587710534",
+  "data": {
+    "token": "5702ac1a-2af9-401e-a915-6641b56afe0f",
+    "userinfo": {
+      "id": 12345,
+      "uuid": "550e8400-e29b-41d4-a716-446655440000",
+      "username": "gamehub_user",
+      "nickname": "GameHub User",
+      "avatar": "🎮",
+      "email": "info.gamingforecast@gmail.com",
+      "mobile": "",
+      "bio": "Shared GameHub Account"
+    }
+  }
+}
