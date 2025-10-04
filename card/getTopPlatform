@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "msg": "",
+  "time": "",
+  "data": [
+    {
+      "id": 13,
+      "name": "​​PC Emulator​​",
+      "icon": "https://i.ibb.co/p6CPDJC7/windows.png",
+      "type": 7,
+      "back_img": "https://i.ibb.co/9k8BDHbm/jh-Zct-ZUk-Eq-UFKSUrh-PPta-S.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Steam",
+      "icon": "https://uxdl.bigeyes.com/ux-landscape-test/game-image/6719/a3/f9/6719a3f928cad164fcb3f62e1273dbab.webp",
+      "type": 5,
+      "back_img": "https://uxdl.bigeyes.com/ux-landscape-test/game-image/29ac/bc/d7/29acbcd7bef8e02ecd4e7bb6d6c64130.png"
+    }
+  ]
+}
