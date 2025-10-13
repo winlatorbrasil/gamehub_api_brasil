@@ -2,7 +2,7 @@
   "code": 200,
   "msg": "Success",
   "data": {
-    "total": 256,
+    "total": 259,
     "downloads": [
       {
         "name": "mono",
@@ -176,6 +176,15 @@
         "file_md5": "fc8c516a93a69f1ee119add6ffe22492"
       },
       {
+        "name": "8eGen5-842.8",
+        "type": 2,
+        "version": "1.0.0",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/f69b/fd/a1/f69bfda11b5ada8e6542e94896570193.tzst",
+        "file_name": "8eGen5-842.8.tzst",
+        "file_size": "12568832",
+        "file_md5": "f69bfda11b5ada8e6542e94896570193"
+      },
+      {
         "name": "8eGen5-842.6",
         "type": 2,
         "version": "1.0.0",
@@ -336,6 +345,24 @@
         "file_name": "adreno_762.10.tzst",
         "file_size": "11721623",
         "file_md5": "4e046e11d23c2f403cb85453180ccf0e"
+      },
+      {
+        "name": "turnip_v25.3.0_R11",
+        "type": 2,
+        "version": "1.0.0",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/4a17/bb/19/4a17bb19d0ad821cb4f6e3018711a3a7.tzst",
+        "file_name": "turnip_v25.3.0_R11.tzst",
+        "file_size": "3159116",
+        "file_md5": "4a17bb19d0ad821cb4f6e3018711a3a7"
+      },
+      {
+        "name": "turnip_v25.3.0_R10",
+        "type": 2,
+        "version": "1.0.0",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/c8f6/d0/49/c8f6d049cbad544c5710cf7c1648527b.tzst",
+        "file_name": "turnip_v25.3.0_R10.tzst",
+        "file_size": "3167790",
+        "file_md5": "c8f6d049cbad544c5710cf7c1648527b"
       },
       {
         "name": "turnip_v25.3.0_R9",
