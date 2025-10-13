@@ -5,8 +5,22 @@
     "type": 2,
     "type_name": "drivers",
     "display_name": "GPU Drivers",
-    "total": 61,
+    "total": 64,
     "components": [
+      {
+        "display_name": "",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/f69b/fd/a1/f69bfda11b5ada8e6542e94896570193.tzst",
+        "file_md5": "f69bfda11b5ada8e6542e94896570193",
+        "file_name": "8eGen5-842.8.tzst",
+        "file_size": "12568832",
+        "id": 338,
+        "is_ui": 1,
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "name": "8eGen5-842.8",
+        "type": 2,
+        "version": "1.0.0",
+        "version_code": 1
+      },
       {
         "display_name": "",
         "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/d2c1/85/69/d2c18569d828ba8b7c66804aa8be2d54.tzst",
@@ -227,6 +241,34 @@
         "is_ui": 1,
         "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
         "name": "Adreno_762.10",
+        "type": 2,
+        "version": "1.0.0",
+        "version_code": 1
+      },
+      {
+        "display_name": "",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/4a17/bb/19/4a17bb19d0ad821cb4f6e3018711a3a7.tzst",
+        "file_md5": "4a17bb19d0ad821cb4f6e3018711a3a7",
+        "file_name": "turnip_v25.3.0_R11.tzst",
+        "file_size": "3159116",
+        "id": 337,
+        "is_ui": 1,
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "name": "turnip_v25.3.0_R11",
+        "type": 2,
+        "version": "1.0.0",
+        "version_code": 1
+      },
+      {
+        "display_name": "",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/c8f6/d0/49/c8f6d049cbad544c5710cf7c1648527b.tzst",
+        "file_md5": "c8f6d049cbad544c5710cf7c1648527b",
+        "file_name": "turnip_v25.3.0_R10.tzst",
+        "file_size": "3167790",
+        "id": 336,
+        "is_ui": 1,
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "name": "turnip_v25.3.0_R10",
         "type": 2,
         "version": "1.0.0",
         "version_code": 1
