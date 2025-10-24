@@ -9,20 +9,6 @@
     "components": [
       {
         "display_name": "",
-        "download_url": "https://raw.githubusercontent.com/winlatorbrasil/gamehub_api_brasil/main/components/box64/Box64-0.3.8.tzst",
-        "file_md5": "cef0ba6bc627025eac884b5e6e9d39d2",
-        "file_name": "Box64-0.3.8.tzst",
-        "file_size": "3614198",
-        "id": 999,
-        "is_ui": 1,
-        "logo": "https://raw.githubusercontent.com/winlatorbrasil/gamehub_api_brasil/main/components/box64/box64.png",
-        "name": "Box64-0.3.8",
-        "type": 1,
-        "version": "1.0.0",
-        "version_code": 1
-      },
-      {
-        "display_name": "",
         "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/bfb6/b3/91/bfb6b3914b8f7abb792d8acafa676861.tzst",
         "file_md5": "bfb6b3914b8f7abb792d8acafa676861",
         "file_name": "Box64-0.37-b2.tzst",
