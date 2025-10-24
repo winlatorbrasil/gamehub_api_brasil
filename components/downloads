@@ -1007,7 +1007,7 @@
         "name": "Box64-0.3.8",
         "type": 1,
         "version": "1.0.0",
-        "download_url": "http://gerald-api.shop:8788/components/box64/Box64-0.3.8.repacked.tzst",
+        "download_url": "https://gerald-api.shop/components/box64/Box64-0.3.8.repacked.tzst",
         "file_name": "Box64-0.3.8.repacked.tzst",
         "file_size": "4761628",
         "file_md5": "4c259b3c6d6b58080cd89d06f9531353"
