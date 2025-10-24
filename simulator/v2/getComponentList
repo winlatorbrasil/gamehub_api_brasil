@@ -4,18 +4,18 @@
   "data": {
     "list": [
       {
-        "id": 327,
+        "id": 999,
         "version": "1.0.0",
         "version_code": 1,
         "type": 1,
-        "name": "Box64-0.37-b2",
+        "name": "Box64-0.3.8",
         "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
         "blurb": "",
-        "file_md5": "bfb6b3914b8f7abb792d8acafa676861",
-        "file_size": "4272182",
-        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/bfb6/b3/91/bfb6b3914b8f7abb792d8acafa676861.tzst",
-        "file_name": "Box64-0.37-b2.tzst",
-        "display_name": "Box64-0.37-b2",
+        "file_md5": "cef0ba6bc627025eac884b5e6e9d39d2",
+        "file_size": "3614198",
+        "download_url": "https://raw.githubusercontent.com/winlatorbrasil/gamehub_api_brasil/main/components/box64/Box64-0.3.8.tzst",
+        "file_name": "Box64-0.3.8.tzst",
+        "display_name": "Box64-0.3.8",
         "gpu_range": ""
       },
       {
