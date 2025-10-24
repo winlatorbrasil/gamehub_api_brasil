@@ -1559,6 +1559,20 @@
       },
       {
         "display_name": "",
+        "download_url": "http://gerald-api.shop:8788/components/box64/Box64-0.3.8.repacked.tzst",
+        "file_md5": "4c259b3c6d6b58080cd89d06f9531353",
+        "file_name": "Box64-0.3.8.repacked.tzst",
+        "file_size": "4761628",
+        "id": 999,
+        "is_ui": 1,
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "name": "Box64-0.3.8",
+        "type": 1,
+        "version": "1.0.0",
+        "version_code": 1
+      },
+      {
+        "display_name": "",
         "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/bfb6/b3/91/bfb6b3914b8f7abb792d8acafa676861.tzst",
         "file_md5": "bfb6b3914b8f7abb792d8acafa676861",
         "file_name": "Box64-0.37-b2.tzst",
